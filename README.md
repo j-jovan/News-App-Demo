@@ -1,11 +1,9 @@
 
-# news-react-demo-app
+# News-react-demo-app
 
 ### Purpose of this app is for demonstrating React concepts during a workshop
 
-#### Slides from the workshop are located in "docs/slides" folder
-Requirements
-
+### Requirements:
 - latest version of node and npm
 
 ### How to run
@@ -17,7 +15,7 @@ npm install
 npm start
 ```
 
-### Api url:
+### API URL:
 
 ```javascript
 https://mysterious-savannah-50993.herokuapp.com/news
