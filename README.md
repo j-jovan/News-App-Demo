@@ -1,7 +1,7 @@
 
 # News-react-demo-app
 
-### Purpose of this app is for demonstrating React concepts during a workshop
+### React app for practising React concepts
 
 ### Requirements:
 - latest version of node and npm
