@@ -1,0 +1,13 @@
+@import '../../shared.scss';
+
+.news-card {
+    margin-bottom: 20px;
+
+    .article-button {
+        background: $main-red;
+
+        &:hover {
+            background: $main-bg;
+        }
+    }
+}

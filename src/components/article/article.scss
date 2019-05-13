@@ -1,0 +1,23 @@
+@import '../../shared.scss';
+
+.article {
+    color: $main-white;
+    padding: 20px 0;
+    min-height: calc(100vh - 90px);
+
+    img {
+        max-width: 100%;
+    }
+    
+    p {
+        margin-bottom: 20px;
+    }
+
+    .image-container {
+        margin-bottom: 20px;
+    }
+
+    span {
+        color: $main-red;
+    }
+}

@@ -1,0 +1,10 @@
+@import '../../shared.scss';
+
+.home {
+    min-height: calc(100vh - 90px);
+    padding: 20px 0;
+
+    .filter {
+        margin-bottom: 20px;
+    }
+}

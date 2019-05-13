@@ -1,0 +1,11 @@
+@import '../../shared.scss';
+
+
+.about {
+    color: $main-white;
+
+    .jumbotron {
+        margin: 0;
+        background: $main-bg;
+    }
+}

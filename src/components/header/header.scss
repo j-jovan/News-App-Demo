@@ -1,0 +1,18 @@
+@import '../../shared.scss';
+
+.header {
+    background: $main-red;
+    color: $main-white;
+
+    nav {
+        list-style-type: none;
+    }
+
+    a {
+        color: $main-white;
+
+        &:hover {
+            color: $main-black;
+        }
+    }
+}
